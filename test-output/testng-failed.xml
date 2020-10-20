@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="DemoQATest(failed)">
+    <classes>
+      <class name="com.demoqa.qa.testcases.PracticeFormPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="validateRegisterNewStudent"/>
+        </methods>
+      </class> <!-- com.demoqa.qa.testcases.PracticeFormPageTest -->
+    </classes>
+  </test> <!-- DemoQATest(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

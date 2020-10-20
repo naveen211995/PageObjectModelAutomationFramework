@@ -1,0 +1,7 @@
+com\demoqa\qa\testcases\PracticeFormPage.class
+com\demoqa\qa\base\TestBase.class
+com\demoqa\qa\testcases\TextBoxPage.class
+com\demoqa\qa\util\WebEventListener.class
+com\demoqa\qa\testcases\HomePage.class
+com\demoqa\qa\util\TestUtil.class
+com\demoqa\ExtentReportListener\ExtentReporterNG.class

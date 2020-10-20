@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="179958" started-at="2020-10-20T13:09:15 IST" finished-at="2020-10-20T13:12:15 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="179958" started-at="2020-10-20T13:09:15 IST" finished-at="2020-10-20T13:12:15 IST">
+      <class name="com.demoqa.qa.testcases.TextBoxPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.qa.testcases.TextBoxPageTest@4bec1f0c]" name="setUp" is-config="true" duration-ms="8248" started-at="2020-10-20T13:11:57 IST" finished-at="2020-10-20T13:12:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatePageHeaderTitleTest()[pri:1, instance:com.demoqa.qa.testcases.TextBoxPageTest@4bec1f0c]" name="validatePageHeaderTitleTest" duration-ms="308" started-at="2020-10-20T13:12:05 IST" finished-at="2020-10-20T13:12:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageHeaderTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.qa.testcases.TextBoxPageTest@4bec1f0c]" name="tearDown" is-config="true" duration-ms="597" started-at="2020-10-20T13:12:05 IST" finished-at="2020-10-20T13:12:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.qa.testcases.TextBoxPageTest@4bec1f0c]" name="setUp" is-config="true" duration-ms="8133" started-at="2020-10-20T13:12:06 IST" finished-at="2020-10-20T13:12:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatePageHeadlineTest()[pri:2, instance:com.demoqa.qa.testcases.TextBoxPageTest@4bec1f0c]" name="validatePageHeadlineTest" duration-ms="198" started-at="2020-10-20T13:12:14 IST" finished-at="2020-10-20T13:12:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageHeadlineTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.qa.testcases.TextBoxPageTest@4bec1f0c]" name="tearDown" is-config="true" duration-ms="673" started-at="2020-10-20T13:12:14 IST" finished-at="2020-10-20T13:12:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoqa.qa.testcases.TextBoxPageTest -->
+      <class name="com.demoqa.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.qa.testcases.HomePageTest@3159c4b8]" name="setUp" is-config="true" duration-ms="14510" started-at="2020-10-20T13:09:15 IST" finished-at="2020-10-20T13:09:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateHomePageTitleTest()[pri:1, instance:com.demoqa.qa.testcases.HomePageTest@3159c4b8]" name="validateHomePageTitleTest" duration-ms="7" started-at="2020-10-20T13:09:29 IST" finished-at="2020-10-20T13:09:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.qa.testcases.HomePageTest@3159c4b8]" name="tearDown" is-config="true" duration-ms="993" started-at="2020-10-20T13:09:29 IST" finished-at="2020-10-20T13:09:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.qa.testcases.HomePageTest@3159c4b8]" name="setUp" is-config="true" duration-ms="7925" started-at="2020-10-20T13:09:30 IST" finished-at="2020-10-20T13:09:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatePageHeaderTitleTest()[pri:2, instance:com.demoqa.qa.testcases.HomePageTest@3159c4b8]" name="validatePageHeaderTitleTest" duration-ms="387" started-at="2020-10-20T13:09:38 IST" finished-at="2020-10-20T13:09:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageHeaderTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.qa.testcases.HomePageTest@3159c4b8]" name="tearDown" is-config="true" duration-ms="1629" started-at="2020-10-20T13:09:39 IST" finished-at="2020-10-20T13:09:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.qa.testcases.HomePageTest@3159c4b8]" name="setUp" is-config="true" duration-ms="8050" started-at="2020-10-20T13:09:40 IST" finished-at="2020-10-20T13:09:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnTextBoxLinkTest()[pri:3, instance:com.demoqa.qa.testcases.HomePageTest@3159c4b8]" name="clickOnTextBoxLinkTest" duration-ms="598" started-at="2020-10-20T13:09:48 IST" finished-at="2020-10-20T13:09:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnTextBoxLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.qa.testcases.HomePageTest@3159c4b8]" name="tearDown" is-config="true" duration-ms="827" started-at="2020-10-20T13:09:49 IST" finished-at="2020-10-20T13:09:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.qa.testcases.HomePageTest@3159c4b8]" name="setUp" is-config="true" duration-ms="7702" started-at="2020-10-20T13:09:50 IST" finished-at="2020-10-20T13:09:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnPracticeFormLinkTest()[pri:4, instance:com.demoqa.qa.testcases.HomePageTest@3159c4b8]" name="clickOnPracticeFormLinkTest" duration-ms="271" started-at="2020-10-20T13:09:58 IST" finished-at="2020-10-20T13:09:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnPracticeFormLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.qa.testcases.HomePageTest@3159c4b8]" name="tearDown" is-config="true" duration-ms="602" started-at="2020-10-20T13:09:58 IST" finished-at="2020-10-20T13:09:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoqa.qa.testcases.HomePageTest -->
+      <class name="com.demoqa.qa.testcases.PracticeFormPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="setUp" is-config="true" duration-ms="9815" started-at="2020-10-20T13:09:59 IST" finished-at="2020-10-20T13:10:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRegisterNewStudent(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="validateRegisterNewStudent" duration-ms="2470" started-at="2020-10-20T13:10:09 IST" data-provider="getTestData" finished-at="2020-10-20T13:10:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aaron]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hadison]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[aaron.hadison@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.652042071E9]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[March]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2007]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[288 Avenue, Brock Street, NYC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterNewStudent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="tearDown" is-config="true" duration-ms="1114" started-at="2020-10-20T13:10:12 IST" finished-at="2020-10-20T13:10:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="setUp" is-config="true" duration-ms="11166" started-at="2020-10-20T13:10:13 IST" finished-at="2020-10-20T13:10:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRegisterNewStudent(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="validateRegisterNewStudent" duration-ms="1688" started-at="2020-10-20T13:10:24 IST" data-provider="getTestData" finished-at="2020-10-20T13:10:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Brock]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hudson]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[brock.hudson@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[male ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.944775588E9]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[April]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2010]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[400 Avenue, Aston Street, NYC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterNewStudent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="tearDown" is-config="true" duration-ms="589" started-at="2020-10-20T13:10:26 IST" finished-at="2020-10-20T13:10:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="setUp" is-config="true" duration-ms="10279" started-at="2020-10-20T13:10:26 IST" finished-at="2020-10-20T13:10:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRegisterNewStudent(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="validateRegisterNewStudent" duration-ms="1472" started-at="2020-10-20T13:10:36 IST" data-provider="getTestData" finished-at="2020-10-20T13:10:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chimney]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gully]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chimney.gully@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8.855447755E9]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[May]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2011]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[10 Avenue, James Street,  Los Angeles]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterNewStudent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="tearDown" is-config="true" duration-ms="1105" started-at="2020-10-20T13:10:38 IST" finished-at="2020-10-20T13:10:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="setUp" is-config="true" duration-ms="18671" started-at="2020-10-20T13:10:39 IST" finished-at="2020-10-20T13:10:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRegisterNewStudent(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="validateRegisterNewStudent" duration-ms="1662" started-at="2020-10-20T13:10:58 IST" data-provider="getTestData" finished-at="2020-10-20T13:10:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[David ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gusto]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[david.gusto@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[7.784455999E9]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[June]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2008]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Downing block, Hudersfield Colony NYC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterNewStudent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="tearDown" is-config="true" duration-ms="621" started-at="2020-10-20T13:10:59 IST" finished-at="2020-10-20T13:11:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="setUp" is-config="true" duration-ms="11009" started-at="2020-10-20T13:11:00 IST" finished-at="2020-10-20T13:11:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRegisterNewStudent(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="validateRegisterNewStudent" duration-ms="1647" started-at="2020-10-20T13:11:11 IST" data-provider="getTestData" finished-at="2020-10-20T13:11:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mariana]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[James]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mariana.james@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.988774455E9]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[14.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[June]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2009]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[10 Downing Street, Brockville road, Los Angeles]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterNewStudent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="tearDown" is-config="true" duration-ms="664" started-at="2020-10-20T13:11:13 IST" finished-at="2020-10-20T13:11:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="setUp" is-config="true" duration-ms="8148" started-at="2020-10-20T13:11:13 IST" finished-at="2020-10-20T13:11:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRegisterNewStudent(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="validateRegisterNewStudent" duration-ms="1608" started-at="2020-10-20T13:11:21 IST" data-provider="getTestData" finished-at="2020-10-20T13:11:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Zara]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ducata]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[zara.ducata@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.955887744E9]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[15.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[March]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2010]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Times Square Building, NewYork]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterNewStudent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="tearDown" is-config="true" duration-ms="695" started-at="2020-10-20T13:11:23 IST" finished-at="2020-10-20T13:11:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="setUp" is-config="true" duration-ms="8259" started-at="2020-10-20T13:11:24 IST" finished-at="2020-10-20T13:11:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRegisterNewStudent(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="validateRegisterNewStudent" duration-ms="1582" started-at="2020-10-20T13:11:32 IST" data-provider="getTestData" finished-at="2020-10-20T13:11:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aston]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Martin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[aston.martin@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.966224455E9]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[14.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[April]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2010]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Boston, London]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterNewStudent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="tearDown" is-config="true" duration-ms="594" started-at="2020-10-20T13:11:34 IST" finished-at="2020-10-20T13:11:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="setUp" is-config="true" duration-ms="8291" started-at="2020-10-20T13:11:34 IST" finished-at="2020-10-20T13:11:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRegisterNewStudent(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="validateRegisterNewStudent" duration-ms="1633" started-at="2020-10-20T13:11:43 IST" data-provider="getTestData" finished-at="2020-10-20T13:11:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dua]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lipa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dua.lipa@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.922448855E9]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[June]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2019]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[10/41 Avenue, Birmingham]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterNewStudent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="tearDown" is-config="true" duration-ms="1498" started-at="2020-10-20T13:11:44 IST" finished-at="2020-10-20T13:11:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="setUp" is-config="true" duration-ms="8753" started-at="2020-10-20T13:11:46 IST" finished-at="2020-10-20T13:11:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRegisterNewStudent(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="validateRegisterNewStudent" duration-ms="1681" started-at="2020-10-20T13:11:54 IST" data-provider="getTestData" finished-at="2020-10-20T13:11:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Roger]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Federerrer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[roger.fed@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.944887755E9]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[8.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[July]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2008]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Himpson road, Honslow]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterNewStudent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoqa.qa.testcases.PracticeFormPageTest@73846619]" name="tearDown" is-config="true" duration-ms="617" started-at="2020-10-20T13:11:56 IST" finished-at="2020-10-20T13:11:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoqa.qa.testcases.PracticeFormPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
